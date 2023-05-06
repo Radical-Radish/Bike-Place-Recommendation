@@ -16,7 +16,8 @@ def recommendation(bike_place, result, p, f, a):
                 if int(bike_place["Features"][i][j]) == f:
                     result = pd.concat([bike_place.iloc[[i]], result])
         else:
-            result = pd.concat([bike_place.iloc[[i]], result])
+            if int(bike_place["Features"][i]) == f:
+                result = pd.concat([bike_place.iloc[[i]], result])
 
     result = result.reset_index(drop=True)
     
