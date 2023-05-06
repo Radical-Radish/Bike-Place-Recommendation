@@ -1,0 +1,130 @@
+﻿Name,Location,Province,OpenTime,CloseTime,Features,Recommendation,OtherAcitivities
+Happy & Healthy Bike Lane,Bang Phli,2,6:00,19:00,"1, 2, 3, 4",1,1
+Wachirabenchatat Park,Chatuchak,1,5:00,21:00,"4, 5",1,1
+Rama IX Park,Prawet,1,5:00,19:00,6,2,1
+Bang Kachao,Phra Pradaeng,2,6:00,19:00,"4, 5, 6, 7, 8, 10",2,1
+Ko Kret,Pak Kret,3,10:00,18:00,"4, 5, 6, 7, 9, 10",2,1
+Somdet Phra Srinagarindra Park,Pak Kret,3,4:00,20:00,"5, 6",2,1
+Siang Pure Bike Park,Bang Kapi,1,12:00,20:00,"3, 4",3,0
+Nong Bon Water Sports Center,Prawet,1,5:30,18:00,"1, 4, 5, 6",2,1
+Lumphini-Benchakitti Park Walkway,Pathum Wan,1,6:00,21:00,5,1,1
+Benchakitti Park,Khlong Toei,1,5:00,21:00,5,2,1
+Bhumibol Bridge,Phra Pradaeng,2,5:00,21:00,6,2,1
+Waree Phirom Park,Min Buri,1,6:00,19:00,"1, 4, 6",1,1
+Rak Thale Bangkhunthian Bridge,Bang Khun Thian,1,8:00,18:00,13,2,1
+Ayutthaya empire Wall,Mueang,4,8:00,18:00,4,2,1
+Suan Phueng,Suan Phueng,5,6:00,23:00,"4, 5, 11, 12, 17",2,1
+Khun Dan Prakarn Chon Dam,Mueang,6,5:00,18:00,6,2,1
+Peppermint Bike Park,Bang Kapi,1,11:00,20:00,"1, 2, 4",3,0
+Khao Yai National Park,Pak Chong,7,6:00,18:00,"5, 12",2,1
+Swan Lake Khaoyai,Pak Chong,7,9:00,17:00,"5, 6, 11, 14",2,0
+Lam Phra Phloeng Dam,Pak Thong Chai,7,6:00,18:00,"5, 6",2,1
+Hua Mak Sports Complex,Bang Kapi,1,5:00,22:00,"3, 16, 18",3,1
+Suphanburi Sports School,Mueang,8,5:00,18:00,"3, 18",3,0
+Thong Pha Phum Road,Thong Pha Phum,9,6:00,23:00,"15, 17",3,0
+Khao Khayai BMX Track,Mueang,10,9:00,20:00,"3, 17",3,0
+Amphawa District,Amphawa,11,0:00,0:00,"6, 15",2,1
+Rattanokosin Line,Phra Nakorn,1,6:00,23:00,"1, 15",2,0
+Sattahip District,Sattahip,12,6:00,23:00,"5, 7, 12, 13, 15",2,1
+Phutthamonthon District,Phutthamonthon,13,6:00,23:00,"5, 7, 12, 15",2,1
+Muak Lek District,Muak Lek,14,6:00,23:00,"5, 7, 12, 15",2,1
+King Mongkut's Institute of Technology Ladkrabang,Lat Krabang,1,5:00,18:00,"5, 7, 11",1,1
+Kasetsart University,Chatuchak,1,5:00,18:00,"5, 11",1,1
+Chulalongkorn University,Pathum Wan,1,8:00,17:00,"5, 7, 11",1,1
+Khon Kaen University,Mueang,15,5:00,18:00,"5, 11",1,1
+Chiang Mai University,Mueang,16,5:00,18:00,"5, 7, 11",1,1
+King Mongkut’s University of Technology Thonburi,Thung Khru,1,5:00,18:00,"5, 11",1,1
+Lampang's clock tower park,Mueang,17,8:00,17:00,"2, 5, 7, 11",1,1
+Kelang Park,Mueang,17,8:00,17:00,"2, 5, 7, 11",3,1
+Botanic Garden,Mae Mo,17,9:00,18:00,"5, 7, 11",1,1
+Nhong Krathing Park,Mueang,17,5:00,20:00,"1, 2, 5, 6, 11",3,1
+Chaloem Phra Kiat Park Mueang Lampang,Mueang,17,0:00,0:00,"5, 11",2,1
+park office - Haew Suwat Waterfall - National Park Office,Pak Chong,7,0:00,0:00,"5,6,12",2,1
+park office The – Khao Kheow (Pha Deaw Dai) - National Park Office,Pak Chong,7,0:00,0:00,"5,12",2,0
+Swan Lake Residence Khao Yai,Pak Chong,7,0:00,0:00,"5,11,14",2,1
+Muang Pattaya Public Park,Pattaya,12,6:00,21:00,"1, 3, 4, 5, 11, 13, 15",1,1
+"Koh Loi Health Garden, Sriracha",Sriracha,12,6:00,22:00,"1, 2, 3, 4, 6, 13, 17",1,1
+Doi Inthanon,Doi Inthanon,16,0:00,0:00,"5, 12, 15",2,1
+Rai Boon Rawd,Mae korn,16,9:30,17:00,"1, 2, 3, 4, 5",1,1
+Kaeng Krachan ,Kaeng Krachan ,21,0:00,0:00,"1, 4, 5, 6",2,1
+Muak Lek,Muak Lek,20,0:00,0:00,"5, 12",2,0
+Thung Salaeng Luang National Park,Wang Thong,24,0:00,0:00,"5, 12",2,0
+Laplae District,Uttaradit,25,9:00,16:00,"3, 4, 7",1,1
+Chiang Khan,Chiang Khan,26,0:00,0:00,"1, 3, 4, 5, 6, 11, 12",2,1
+Lumphini park,Pathum Wan,1,10:00,15:00,"1, 2, 3, 4",1,1
+City Island Bicycle Track II (The Historical Park Loop),Mueang,4,6:00,19:00,"4, 5",1,1
+Northern Bicycle Track (The Khlong Sra Bua Loop),Mueang,4,6:00,19:00,6,2,1
+North Eastern Bicycle Track (The Northern Ayodhya Loop),Mueang,4,6:00,19:00,"4, 5, 6, 7, 8, 10",2,1
+Lopburi Bicycle Track,Mueang,4,6:00,19:00,"4, 5, 6, 7, 9, 10",2,1
+X. Lopburi - Ayutthaya Bicycle Track,Mueang,4,6:00,19:00,"5, 6",2,1
+Pa Mok Bicycle Track,Mueang,4,6:00,19:00,"3, 4",3,0
+Saraburi Bicycle Track,Mueang,4,6:00,19:00,"1, 4, 5, 6",2,1
+Sara Buri - Phatthana Nikhom Bicycle Track,Mueang,1,6:00,19:00,5,1,1
+Nong Chok's Roadbike loop,Nong Chok,1,6:00,19:00,5,2,1
+Udom Suk's Ferry terminal loop,Udom Suk,1,6:00,19:00,6,2,1
+Di Bosco Coffee Specialist loop,Mae Rim,16,6:00,19:00,"1, 4, 6",1,1
+Doi Pui View Point loop,Mueang,16,6:00,19:00,13,2,1
+Tiger Ted Cafe loop,Mueang,16,6:00,19:00,4,2,1
+Extremsteigung loop,Thalang,18,6:00,19:00,"4, 5, 11, 12, 17",2,1
+Kamala's Sam loop,Kathu,18,6:00,19:00,6,2,1
+Beach vom feinsten loop,Kathu,18,6:00,19:00,"1, 2, 4",3,0
+Tawan Place's Sam loop,Thalang,18,6:00,19:00,"5, 12",2,1
+Kamala's View Point loop,Kathu,18,6:00,19:00,"5, 6, 11, 14",2,0
+Goodsouls Restaurant,Mueang,16,6:00,19:00,"5, 6",2,1
+Hua Hin's Bike Path loop,Hua Hin,19,6:00,19:00,"3, 16, 18",3,1
+Ristr8to - Specialty coffee loop,Mueang,16,6:00,19:00,"3, 18",3,0
+Kamala's View Point – Extremsteigung loop,Kathu,18,6:00,19:00,"15, 17",3,0
+Gate to Khao Yai National park,Pak Chong,7,6:00,19:00,"3, 17",3,0
+Ristr8to - Specialty coffee – Tiger Ted Cafe loop,Mueang,16,6:00,19:00,"6, 15",2,1
+Mai Khao's Sam loop,Mai Khao,18,6:00,19:00,"1, 2, 3, 5, 13",3,0
+Mae Sa Waterfall – di Bosco Coffee Specialist loop,Mae Rim,16,6:00,19:00,"4, 6",3,0
+BangTao's Sam – Extremsteigung loop,Thalang,18,6:00,19:00,"7, 13",2,1
+Samoeng Switchbacks – Thachang hill coffee,Pak Chong,7,6:00,19:00,"4, 5, 6, 7, 8, 11",3,0
+Outer route of Sukhothai old town,Sukhothai,27,0:00,0:00,"4,5,12",2,1
+Bueng Thung Sang,Khon kaen,15,0:00,0:00,"1,2,3 ,4",1,1
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
